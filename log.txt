@@ -1,0 +1,1402 @@
+Connected, dumping recent logs for app mekyush_marble_v2 in org teamrandom / space invxchange as sanfscale@gmail.com...
+
+2016-12-10T06:25:41.34+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:27:31.52+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:28:51.75+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:30:51.86+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:31:52.43+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:32:22.06+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:38:02.64+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:38:12.64+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:38:22.66+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:38:32.70+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:39:02.72+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:39:12.73+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:39:22.75+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:39:42.79+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:40:22.86+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:41:12.94+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:42:43.12+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:43:13.16+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:43:23.17+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:43:43.22+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:43:53.32+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:44:03.26+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:44:13.27+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:44:53.35+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:45:03.36+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:45:13.37+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:45:23.63+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:45:43.42+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:46:03.49+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:47:33.63+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:49:53.92+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:50:03.89+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:51:03.99+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:51:34.03+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:54:06.43+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:55:54.43+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:56:04.45+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:56:54.53+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:57:14.57+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:57:24.58+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:57:44.62+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:58:04.67+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:58:25.09+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T06:59:44.84+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:00:04.89+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:00:24.93+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:01:15.26+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:01:25.04+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:01:55.09+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:02:05.11+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:02:15.13+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:02:45.19+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:03:45.30+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:03:57.37+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:04:45.41+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:04:57.80+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:05:15.46+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:05:35.50+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:05:45.52+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:06:35.61+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:06:45.79+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:07:05.66+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:07:28.04+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:08:35.93+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:08:55.92+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:09:08.12+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:09:46.04+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:10:06.08+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:10:16.10+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:10:56.18+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:11:06.20+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:11:26.25+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:11:36.28+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:13:06.49+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:13:16.51+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:13:26.52+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:13:36.55+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:14:16.80+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:14:26.62+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:14:56.69+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:15:06.70+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:15:26.76+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:15:36.78+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:15:46.80+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:15:57.38+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:16:26.89+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:16:36.91+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:16:46.93+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:16:56.95+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:17:09.40+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:17:37.00+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:17:47.02+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:18:01.39+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:18:17.07+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:18:47.12+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:18:57.14+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:19:07.17+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:19:17.19+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:19:27.21+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:19:47.37+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:19:58.13+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:20:07.28+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:20:37.33+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:20:57.37+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:21:07.38+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:21:17.40+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:21:27.44+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:21:37.96+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:21:47.46+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:22:09.57+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:22:37.56+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:22:57.60+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:23:07.63+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:23:17.65+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:23:27.73+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:23:37.67+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:23:57.72+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:24:07.88+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:24:17.74+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:24:37.77+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:24:58.00+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:25:07.83+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:25:17.86+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:25:27.89+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:25:37.87+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:25:47.89+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:25:57.90+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:26:11.02+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:26:17.93+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:26:27.94+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:26:37.96+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:26:57.99+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:27:08.09+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:27:18.02+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:27:28.03+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:27:38.05+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:27:58.07+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:28:14.04+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:28:18.11+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:28:28.13+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:28:38.15+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:28:48.23+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:28:58.27+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:29:08.20+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:29:18.21+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:29:28.23+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:29:38.25+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:29:48.26+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:29:58.27+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:30:14.23+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:30:18.32+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:30:28.33+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:30:38.34+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:30:48.49+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:30:58.39+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:31:08.40+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:31:18.43+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:31:28.44+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:31:38.46+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:31:48.54+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:31:58.49+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:32:15.12+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:32:18.52+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:32:28.53+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:32:38.63+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:32:48.57+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:32:58.59+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:33:08.62+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:33:18.63+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:33:28.65+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:33:38.66+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:33:48.79+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:33:58.70+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:34:12.35+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:34:18.74+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:34:28.83+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:34:38.77+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:34:48.78+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:34:58.81+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:35:08.87+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:35:19.34+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:35:28.89+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:35:38.90+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:35:48.96+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:35:58.92+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:36:15.93+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:36:19.11+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:36:28.98+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:36:38.99+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:36:49.01+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:36:59.04+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:37:09.09+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:37:19.07+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:37:29.09+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:37:39.11+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:37:59.15+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:38:16.46+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:38:19.19+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:38:29.21+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:38:39.22+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:38:59.28+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:39:09.30+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:39:19.32+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:39:29.41+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:39:39.34+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:39:49.36+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:39:59.54+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:40:14.40+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:40:19.42+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:40:29.44+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:40:39.45+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:40:49.56+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:40:59.50+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:41:09.57+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:41:19.52+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:41:39.53+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:41:49.71+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:41:59.56+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:42:19.60+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:42:29.61+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:42:39.63+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:42:49.66+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:42:59.67+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:43:09.72+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:43:19.72+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:43:29.72+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:43:39.86+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:43:49.76+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:43:59.77+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:44:14.60+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:44:19.81+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:44:29.85+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:44:39.85+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:44:49.92+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:44:59.89+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:45:09.92+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:45:19.94+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:45:30.11+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:45:39.97+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:45:50.00+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:46:00.01+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:46:10.03+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:46:21.82+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:46:30.08+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:46:40.10+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:46:50.11+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:47:00.13+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:47:10.41+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:47:20.17+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:47:30.18+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:47:40.21+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:47:50.21+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:48:00.22+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:48:10.24+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:48:23.06+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:48:30.27+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:48:40.28+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:48:50.46+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:49:02.22+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:49:10.32+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:49:20.34+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:49:30.35+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:49:40.37+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:49:50.38+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:50:00.40+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:50:10.42+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:50:20.44+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:50:35.78+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:50:40.47+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:50:50.49+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:51:00.51+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:51:10.53+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:51:20.55+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:51:30.56+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:51:40.59+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:51:50.60+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:52:00.62+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:52:10.77+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:52:20.69+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:53:10.78+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:53:11.77+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:53:15.76+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:53:20.77+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:53:21.98+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:53:30.00+0530 [App/0]      ERR [ibc-js] Chain Stats - failure: 408 Request timed out
+2016-12-10T07:53:30.84+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:53:40.79+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:53:50.80+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:54:01.10+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:54:10.83+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:54:20.89+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:54:30.85+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:54:40.91+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:54:50.88+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:55:03.07+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:55:10.92+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:55:20.93+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:55:30.95+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:55:40.96+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:55:51.12+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:56:00.99+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:56:11.01+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:56:21.02+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:56:31.03+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:56:41.04+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:56:51.06+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:57:01.07+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:57:11.09+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:57:21.10+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:57:31.11+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:57:41.29+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:57:51.14+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:58:01.17+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:58:11.18+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:58:21.20+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:58:31.21+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:58:41.22+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:58:51.25+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:59:04.78+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:59:11.27+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:59:21.29+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:59:31.48+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:59:41.38+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T07:59:51.35+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:00:01.36+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:00:11.38+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:00:21.40+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:00:31.42+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:00:41.43+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:00:51.48+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:01:01.46+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:01:11.48+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:01:21.68+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:01:31.51+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:01:41.56+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:01:51.59+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:02:01.60+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:02:11.62+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:02:21.64+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:02:31.65+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:02:41.67+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:02:51.69+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:03:06.02+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:03:11.93+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:03:21.73+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:03:31.75+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:03:41.76+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:03:51.78+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:04:01.80+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:04:11.81+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:04:21.83+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:04:31.84+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:04:41.85+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:04:51.87+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:05:02.14+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:05:11.90+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:05:21.93+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:05:31.94+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:05:41.96+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:05:51.98+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:06:02.00+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:06:12.02+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:06:22.04+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:06:32.05+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:06:42.06+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:06:52.31+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:07:06.59+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:07:12.11+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:07:22.13+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:07:32.16+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:07:42.17+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:07:52.18+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:08:02.20+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:08:12.21+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:08:22.23+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:08:32.27+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:08:42.37+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:08:52.27+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:09:02.28+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:09:12.34+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:09:22.31+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:09:32.35+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:09:42.35+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:09:52.37+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:10:02.38+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:10:12.40+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:10:22.42+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:10:32.59+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:10:42.47+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:10:52.49+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:11:03.00+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:11:14.55+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:11:22.54+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:11:32.56+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:11:42.57+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:11:52.59+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:12:02.62+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:12:12.63+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:12:22.76+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:12:32.67+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:12:42.68+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:12:52.70+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:13:02.72+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:13:12.73+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:13:22.74+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:13:32.76+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:13:42.77+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:13:52.78+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:14:02.83+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:14:12.82+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:14:22.83+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:14:32.84+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:14:42.85+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:14:52.87+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:15:03.32+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:15:12.90+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:15:24.83+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:15:32.92+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:15:42.94+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:15:52.98+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:16:02.97+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:16:12.99+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:16:23.06+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:16:33.03+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:16:44.89+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:16:53.10+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:17:03.07+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:17:13.09+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:17:23.13+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:17:33.14+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:17:43.14+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:17:53.16+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:18:03.17+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:18:13.18+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:18:24.15+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:18:33.21+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:18:43.22+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:18:53.24+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:19:03.26+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:19:13.29+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:19:23.32+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:19:35.31+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:19:43.38+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:19:53.40+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:20:03.41+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:20:13.46+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:20:23.44+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:20:33.46+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:20:43.58+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:20:53.48+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:21:03.50+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:21:13.52+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:21:23.76+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:21:33.55+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:21:43.57+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:21:53.59+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:22:03.61+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:22:13.64+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:22:23.64+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:22:33.66+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:22:43.67+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:22:53.70+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:23:03.72+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:23:13.74+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:23:23.88+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:23:33.77+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:23:45.64+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:23:53.82+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:24:03.82+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:24:13.84+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:24:23.90+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:24:33.87+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:24:43.89+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:24:53.92+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:25:03.93+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:25:14.05+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:25:23.96+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:25:33.98+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:25:43.99+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:25:54.01+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:26:04.04+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:26:14.05+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:26:24.06+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:26:34.09+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:26:44.11+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:26:54.13+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:27:04.36+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:27:14.16+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:27:24.18+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:27:34.19+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:27:46.92+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:27:54.25+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:28:04.28+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:28:14.31+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:28:24.33+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:28:34.34+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:28:44.35+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:28:54.50+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:29:04.40+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:29:14.40+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:29:24.42+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:29:34.44+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:29:46.49+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:29:54.65+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:30:04.49+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:30:16.17+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:30:24.53+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:30:34.54+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:30:46.85+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:30:54.57+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:31:06.23+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:31:16.75+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:31:24.62+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:31:34.63+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:31:46.65+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:31:56.42+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:32:04.71+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:32:14.74+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:32:24.77+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:32:34.93+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:32:44.78+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:32:54.80+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:33:04.82+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:33:14.83+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:33:24.85+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:33:34.87+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:33:44.88+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:33:55.73+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:34:04.92+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:34:14.94+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:34:25.08+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:34:34.96+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:34:44.99+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:34:55.06+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:35:05.04+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:35:15.06+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:35:25.08+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:35:35.10+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:35:45.12+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:36:05.41+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:36:06.53+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:36:16.72+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:36:25.19+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:36:35.22+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:36:47.13+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:36:55.26+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:37:06.56+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:37:16.80+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:37:25.39+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:37:35.34+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:37:45.38+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:37:56.95+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:38:05.41+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:38:16.93+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:38:25.44+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:38:35.45+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:38:45.46+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:38:55.59+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:39:05.52+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:39:15.51+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:39:25.52+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:39:35.53+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:39:45.56+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:39:58.77+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:40:05.59+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:40:15.61+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:40:25.62+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:40:35.63+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:40:45.65+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:40:55.66+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:41:05.67+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:41:15.68+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:41:25.71+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:41:35.72+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:41:45.75+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:41:55.75+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:42:05.91+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:42:15.78+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:42:25.85+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:42:35.82+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:42:45.82+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:42:55.84+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:43:05.88+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:43:15.90+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:43:25.91+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:43:36.08+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:43:45.95+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:43:55.97+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:44:15.18+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:44:16.00+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:44:26.02+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:44:36.19+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:44:46.05+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:44:56.06+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:45:06.09+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:45:16.36+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:45:26.12+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:45:36.13+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:45:46.15+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:45:56.16+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:46:06.18+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:46:16.40+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:46:26.21+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:46:36.23+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:46:46.25+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:46:56.26+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:47:06.43+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:47:16.34+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:47:26.32+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:47:36.33+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:47:46.34+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:47:56.38+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:48:06.39+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:48:23.97+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:48:26.44+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:48:36.48+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:48:46.49+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:48:56.65+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:49:06.51+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:49:16.52+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:49:26.53+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:49:36.55+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:49:46.57+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:49:56.58+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:50:06.61+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:50:17.32+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:50:26.63+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:50:36.65+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:50:46.80+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:50:56.68+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:51:06.69+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:51:16.71+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:51:26.72+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:51:36.73+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:51:46.76+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:51:56.77+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:52:06.80+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:52:24.42+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:52:26.83+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:52:36.96+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:52:46.87+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:52:56.89+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:53:06.91+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:53:16.92+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:53:26.94+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:53:36.96+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:53:46.97+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:53:56.99+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:54:07.00+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:54:17.04+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:54:27.24+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:54:37.05+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:54:47.07+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:54:57.08+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:55:07.10+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:55:17.11+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:55:27.13+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:55:37.14+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:55:47.15+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:56:00.86+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:56:07.19+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:56:17.43+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:56:35.12+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:56:37.23+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:56:47.25+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:56:57.26+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:57:07.28+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:57:17.29+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:57:27.31+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:57:37.34+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:57:47.36+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:57:57.37+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:58:07.59+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:58:17.41+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:58:38.44+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:58:42.46+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:58:47.48+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:58:57.50+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:59:07.51+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:59:17.54+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:59:27.55+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:59:37.57+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:59:47.59+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T08:59:57.72+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:00:07.62+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:00:17.63+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:00:27.65+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:00:38.21+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:00:47.68+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:00:57.69+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:01:07.70+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:01:17.72+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:01:27.75+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:01:37.75+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:01:47.88+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:01:57.79+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:02:07.79+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:02:17.81+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:02:27.83+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:02:37.91+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:02:47.86+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:02:57.88+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:03:07.90+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:03:17.92+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:03:27.92+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:03:38.08+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:03:47.96+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:03:57.98+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:04:08.00+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:04:18.01+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:04:28.03+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:04:38.07+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:04:48.06+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:04:58.08+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:05:08.10+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:05:18.12+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:05:28.28+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:05:38.15+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:05:48.16+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:05:58.17+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:06:08.20+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:06:18.22+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:06:28.23+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:06:50.04+0530 [App/0]      OUT [https GET - j] Warning - detected ECONNRESET, will try HTTP req again. attempt:1
+2016-12-10T09:06:51.28+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:06:52.75+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:06:58.29+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:07:10.76+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:07:18.45+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:07:28.34+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:07:38.35+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:07:48.37+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:07:58.39+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:08:08.41+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:08:18.42+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:08:29.18+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:08:38.45+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:08:48.48+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:08:59.18+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:09:08.58+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:09:18.53+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:09:28.54+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:09:38.56+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:09:48.57+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:09:58.58+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:10:08.60+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:10:18.62+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:10:28.63+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:10:38.64+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:10:48.66+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:10:58.77+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:11:08.70+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:11:18.72+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:11:28.74+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:11:38.75+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:11:48.77+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:11:58.79+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:12:08.81+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:12:18.82+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:12:28.84+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:12:38.86+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:12:48.96+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:13:00.13+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:13:08.91+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:13:18.92+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:13:28.94+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:13:38.95+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:13:48.96+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:13:58.99+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:14:09.00+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:14:19.02+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:14:29.03+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:14:39.11+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:14:49.06+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:14:59.24+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:15:09.09+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:15:19.11+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:15:29.12+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:15:39.14+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:15:49.15+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:15:59.17+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:16:09.18+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:16:19.20+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:16:29.22+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:16:39.23+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:16:49.25+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:17:09.29+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:17:19.10+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:17:19.34+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:17:29.32+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:17:39.34+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:17:49.35+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:17:59.37+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:18:09.39+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:18:19.40+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:18:29.66+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:18:39.44+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:18:49.46+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:18:59.96+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:19:09.50+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:19:20.88+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:19:29.53+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:19:39.55+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:19:49.56+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:19:59.59+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:20:09.60+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:20:19.87+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:20:29.63+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:20:39.64+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:20:49.67+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:21:03.07+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:21:09.70+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:21:19.70+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:21:29.72+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:21:39.73+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:21:49.76+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:21:59.78+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:22:09.97+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:22:19.83+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:22:29.85+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:22:39.86+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:22:49.89+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:22:59.89+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:23:10.89+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:23:19.93+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:23:29.94+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:23:42.16+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:23:49.99+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:24:00.18+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:24:09.99+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:24:20.00+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:24:30.02+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:24:40.03+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:24:50.05+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:25:00.07+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:25:12.01+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:25:20.10+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:25:30.14+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:25:40.13+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:25:50.37+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:26:01.17+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:26:10.19+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:26:20.20+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:26:30.22+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:26:40.24+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:26:50.26+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:27:00.28+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:27:10.31+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:27:20.32+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:27:30.33+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:27:40.53+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:27:50.38+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:28:00.40+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:28:10.41+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:28:20.43+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:28:30.45+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:28:40.46+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:28:50.48+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:29:00.49+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:29:13.78+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:29:20.53+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:29:30.69+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:29:40.55+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:29:50.57+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:30:00.58+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:30:10.62+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:30:20.62+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:30:30.63+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:30:40.66+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:30:50.68+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:31:00.69+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:31:10.71+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:31:20.84+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:31:30.75+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:31:40.75+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:31:50.77+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:32:00.79+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:32:10.81+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:32:20.83+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:32:30.85+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:32:40.87+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:32:50.89+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:33:01.16+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:33:10.93+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:33:20.96+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:33:30.98+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:33:40.98+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:33:51.01+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:34:01.02+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:34:11.04+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:34:21.04+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:34:31.06+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:34:41.29+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:34:51.14+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:35:01.15+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:35:11.17+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:35:21.26+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:35:31.19+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:35:41.21+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:35:51.25+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:36:01.28+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:36:11.27+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:36:21.47+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:36:31.30+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:36:41.31+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:36:51.33+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:37:01.35+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:37:11.37+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:37:22.85+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:37:31.40+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:37:41.41+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:37:51.43+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:38:01.61+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:38:11.46+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:38:21.48+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:38:31.49+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:38:41.51+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:38:51.53+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:39:01.55+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:39:11.56+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:39:21.68+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:39:31.60+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:39:41.81+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:39:51.63+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:40:01.67+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:40:11.66+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:40:21.68+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:40:31.76+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:40:41.72+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:40:51.76+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:41:01.75+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:41:11.76+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:41:23.64+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:41:31.94+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:41:41.81+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:41:51.82+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:42:01.84+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:42:11.89+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:42:21.90+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:42:31.92+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:42:41.93+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:42:51.94+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:43:01.96+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:43:11.98+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:43:22.25+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:43:32.05+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:43:42.03+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:43:52.04+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:44:02.06+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:44:12.08+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:44:22.08+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:44:32.10+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:44:42.11+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:44:52.13+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:45:02.15+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:45:12.37+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:45:22.18+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:45:33.41+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:45:42.22+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:45:52.27+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:46:02.27+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:46:12.33+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:46:22.34+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:46:32.33+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:46:42.36+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:46:52.37+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:47:02.57+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:47:12.38+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:47:22.40+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:47:33.85+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:47:42.44+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:47:52.46+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:48:02.47+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:48:12.50+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:48:22.50+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:48:32.52+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:48:42.53+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:48:52.73+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:49:02.56+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:49:12.59+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:49:22.60+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:49:41.91+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:49:42.64+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:49:52.66+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:50:02.68+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:50:12.69+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:50:22.70+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:50:32.72+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:50:42.90+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:50:52.76+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:51:02.77+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:51:12.80+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:51:22.82+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:51:32.83+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:51:42.85+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:51:52.88+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:52:02.89+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:52:12.91+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:52:22.94+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:52:33.10+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:52:42.98+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:52:52.99+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:53:03.01+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:53:13.02+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:53:23.04+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:54:16.05+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:54:16.78+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:54:18.14+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:54:23.20+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:54:24.15+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:54:32.38+0530 [App/0]      ERR [ibc-js] Chain Stats - failure: 408 Request timed out
+2016-12-10T09:54:36.29+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:54:43.19+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:54:58.56+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:55:03.23+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:55:16.49+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:55:23.25+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:55:34.47+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:55:43.31+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:55:53.44+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:56:03.44+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:56:13.36+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:56:23.62+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:56:33.45+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:56:43.42+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:56:53.44+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:57:03.48+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:57:13.51+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:57:23.51+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:57:33.52+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:57:43.54+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:57:53.55+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:58:03.58+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:58:13.77+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:58:23.61+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:58:33.62+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:58:43.65+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:58:53.67+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:59:03.67+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:59:13.69+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:59:23.71+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:59:33.73+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:59:43.75+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T09:59:53.78+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:00:04.38+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:00:13.79+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:00:23.81+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:00:33.82+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:00:43.83+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:00:53.85+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:01:03.86+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:01:13.88+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:01:23.90+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:01:33.91+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:01:43.93+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:01:54.18+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:02:03.97+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:02:13.98+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:02:23.99+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:02:34.00+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:02:46.96+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:02:54.03+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:03:04.05+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:03:14.06+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:03:24.08+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:03:34.09+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:03:44.32+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:03:54.12+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:04:04.14+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:04:14.15+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:04:24.17+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:04:34.19+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:04:44.20+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:04:54.21+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:05:04.23+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:05:14.24+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:05:24.26+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:05:34.52+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:05:46.89+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:05:54.30+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:06:04.32+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:06:14.34+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:06:24.34+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:06:34.36+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:06:44.38+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:06:54.39+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:07:04.42+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:07:14.45+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:07:24.70+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:07:31.09+0530 [App/0]      OUT ------------------------------------------ incoming request ------------------------------------------
+2016-12-10T10:07:31.09+0530 [App/0]      OUT New GET request for /p1/create
+2016-12-10T10:07:31.10+0530 [App/0]      OUT ------------------------------------------ incoming request ------------------------------------------
+2016-12-10T10:07:31.10+0530 [App/0]      OUT New GET request for /p1/create
+2016-12-10T10:07:31.10+0530 [RTR/2]      OUT mekyush-marble-v2.au-syd.mybluemix.net - [10/12/2016:04:37:31.071 +0000] "GET /p1/create HTTP/1.1" 200 0 2811 "https://console.au-syd.bluemix.net/dashboard/services" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36" 168.1.55.106:17501 x_forwarded_for:"202.71.0.100" x_forwarded_proto:"https" vcap_request_id:bb4b64d7-6614-4a0e-6926-53facb5bc256 response_time:0.038299108 app_id:548b8a77-d38a-4028-9177-0790ef00bc52 x_global_transaction_id:"2147860311"
+2016-12-10T10:07:31.11+0530 [App/0]      OUT [90mGET /p1/create [32m200 [90m24.903 ms - -[0m
+2016-12-10T10:07:31.11+0530 [App/0]      OUT [90mGET /p1/create [32m200 [90m11.209 ms - -[0m
+2016-12-10T10:07:31.11+0530 [RTR/3]      OUT mekyush-marble-v2.au-syd.mybluemix.net - [10/12/2016:04:37:31.090 +0000] "GET /p1/create HTTP/1.1" 200 0 2811 "https://console.au-syd.bluemix.net/dashboard/services" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36" 168.1.55.104:12823 x_forwarded_for:"202.71.0.100" x_forwarded_proto:"https" vcap_request_id:fb28bbdd-2515-4b73-7e46-d10d802d494f response_time:0.024018739 app_id:548b8a77-d38a-4028-9177-0790ef00bc52 x_global_transaction_id:"3342710031"
+2016-12-10T10:07:31.40+0530 [RTR/2]      OUT mekyush-marble-v2.au-syd.mybluemix.net - [10/12/2016:04:37:31.386 +0000] "GET /css/main.min.css?v=5c5213ec16de93e801c4aaf7a7eb956b HTTP/1.1" 200 0 3083 "https://mekyush-marble-v2.au-syd.mybluemix.net/p1/create" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36" 168.1.55.104:23507 x_forwarded_for:"202.71.0.100" x_forwarded_proto:"https" vcap_request_id:70658ab3-28b9-4496-4b48-b5de75b7df54 response_time:0.020189306 app_id:548b8a77-d38a-4028-9177-0790ef00bc52 x_global_transaction_id:"3342710015"
+2016-12-10T10:07:31.40+0530 [App/0]      OUT [90mGET /css/main.min.css?v=5c5213ec16de93e801c4aaf7a7eb956b [32m200 [90m17.266 ms - -[0m
+2016-12-10T10:07:31.42+0530 [App/0]      OUT [90mGET /css/font-awesome-4.5.0/css/font-awesome.min.css [32m200 [90m23.686 ms - -[0m
+2016-12-10T10:07:31.42+0530 [RTR/2]      OUT mekyush-marble-v2.au-syd.mybluemix.net - [10/12/2016:04:37:31.393 +0000] "GET /js/util/jquery.ui.touch-punch.min.js HTTP/1.1" 200 0 597 "https://mekyush-marble-v2.au-syd.mybluemix.net/p1/create" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36" 168.1.55.102:48384 x_forwarded_for:"202.71.0.100" x_forwarded_proto:"https" vcap_request_id:8d685213-df5e-4f72-7f08-0fcd46f3a902 response_time:0.032839304 app_id:548b8a77-d38a-4028-9177-0790ef00bc52 x_global_transaction_id:"2652251373"
+2016-12-10T10:07:31.42+0530 [App/0]      OUT [90mGET /js/util/jquery.ui.touch-punch.min.js [32m200 [90m21.782 ms - -[0m
+2016-12-10T10:07:31.42+0530 [RTR/1]      OUT mekyush-marble-v2.au-syd.mybluemix.net - [10/12/2016:04:37:31.391 +0000] "GET /css/font-awesome-4.5.0/css/font-awesome.min.css HTTP/1.1" 200 0 6241 "https://mekyush-marble-v2.au-syd.mybluemix.net/p1/create" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36" 168.1.55.103:47842 x_forwarded_for:"202.71.0.100" x_forwarded_proto:"https" vcap_request_id:372197d2-a916-4107-5cb3-eb091364cd73 response_time:0.03664949 app_id:548b8a77-d38a-4028-9177-0790ef00bc52 x_global_transaction_id:"2134910887"
+2016-12-10T10:07:31.42+0530 [App/0]      OUT [90mGET /js/util/jquery-1.11.1.min.js [32m200 [90m28.831 ms - -[0m
+2016-12-10T10:07:31.43+0530 [RTR/3]      OUT mekyush-marble-v2.au-syd.mybluemix.net - [10/12/2016:04:37:31.388 +0000] "GET /js/util/jquery-1.11.1.min.js HTTP/1.1" 200 0 33266 "https://mekyush-marble-v2.au-syd.mybluemix.net/p1/create" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36" 168.1.55.106:54795 x_forwarded_for:"202.71.0.100" x_forwarded_proto:"https" vcap_request_id:590cbc7a-0119-413b-7de6-82c4096f2b89 response_time:0.04142795 app_id:548b8a77-d38a-4028-9177-0790ef00bc52 x_global_transaction_id:"2147860295"
+2016-12-10T10:07:31.43+0530 [App/0]      OUT [90mGET /js/util/jquery-ui-1.11.4/jquery-ui.min.js [32m200 [90m28.702 ms - -[0m
+2016-12-10T10:07:31.43+0530 [RTR/1]      OUT mekyush-marble-v2.au-syd.mybluemix.net - [10/12/2016:04:37:31.392 +0000] "GET /js/util/jquery-ui-1.11.4/jquery-ui.min.js HTTP/1.1" 200 0 18008 "https://mekyush-marble-v2.au-syd.mybluemix.net/p1/create" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36" 168.1.55.101:15368 x_forwarded_for:"202.71.0.100" x_forwarded_proto:"https" vcap_request_id:82cb1239-13aa-4194-713d-0022d8f12514 response_time:0.041329879 app_id:548b8a77-d38a-4028-9177-0790ef00bc52 x_global_transaction_id:"2652251357"
+2016-12-10T10:07:31.58+0530 [RTR/0]      OUT mekyush-marble-v2.au-syd.mybluemix.net - [10/12/2016:04:37:31.577 +0000] "GET /js/funk.js HTTP/1.1" 200 0 1041 "https://mekyush-marble-v2.au-syd.mybluemix.net/p1/create" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36" 168.1.55.103:39929 x_forwarded_for:"202.71.0.100" x_forwarded_proto:"https" vcap_request_id:d1172d69-cf33-41fc-4b1d-084b417392b6 response_time:0.003467413 app_id:548b8a77-d38a-4028-9177-0790ef00bc52 x_global_transaction_id:"501731145"
+2016-12-10T10:07:31.58+0530 [App/0]      OUT [90mGET /js/funk.js [32m200 [90m1.557 ms - -[0m
+2016-12-10T10:07:31.80+0530 [RTR/2]      OUT mekyush-marble-v2.au-syd.mybluemix.net - [10/12/2016:04:37:31.796 +0000] "GET /js/blockchain.js HTTP/1.1" 200 0 1431 "https://mekyush-marble-v2.au-syd.mybluemix.net/p1/create" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36" 168.1.55.102:48455 x_forwarded_for:"202.71.0.100" x_forwarded_proto:"https" vcap_request_id:f94f0ce0-f7d2-430b-5db4-6f235dbea271 response_time:0.004114338 app_id:548b8a77-d38a-4028-9177-0790ef00bc52 x_global_transaction_id:"462281683"
+2016-12-10T10:07:31.80+0530 [App/0]      OUT [90mGET /js/blockchain.js [32m200 [90m1.751 ms - -[0m
+2016-12-10T10:07:31.93+0530 [RTR/2]      OUT mekyush-marble-v2.au-syd.mybluemix.net - [10/12/2016:04:37:31.933 +0000] "GET /js/part1.js?v=e96c1061ac5b604e8b384ea4a526940d HTTP/1.1" 200 0 2403 "https://mekyush-marble-v2.au-syd.mybluemix.net/p1/create" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36" 168.1.55.102:48456 x_forwarded_for:"202.71.0.100" x_forwarded_proto:"https" vcap_request_id:0b3627c8-7f1c-432d-7231-e14f977eb4b5 response_time:0.003785737 app_id:548b8a77-d38a-4028-9177-0790ef00bc52 x_global_transaction_id:"1393861441"
+2016-12-10T10:07:31.93+0530 [App/0]      OUT [90mGET /js/part1.js?v=e96c1061ac5b604e8b384ea4a526940d [32m200 [90m1.737 ms - -[0m
+2016-12-10T10:07:32.14+0530 [RTR/2]      OUT mekyush-marble-v2.au-syd.mybluemix.net - [10/12/2016:04:37:32.133 +0000] "GET /css/font-awesome-4.5.0/fonts/fontawesome-webfont.woff2?v=4.5.0 HTTP/1.1" 200 0 66624 "https://mekyush-marble-v2.au-syd.mybluemix.net/css/font-awesome-4.5.0/css/font-awesome.min.css" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36" 168.1.55.102:48557 x_forwarded_for:"202.71.0.100" x_forwarded_proto:"https" vcap_request_id:6427b19b-4ae4-4c3a-7f8e-3406be11012e response_time:0.00697206 app_id:548b8a77-d38a-4028-9177-0790ef00bc52 x_global_transaction_id:"3328338479"
+2016-12-10T10:07:32.14+0530 [App/0]      OUT [90mGET /css/font-awesome-4.5.0/fonts/fontawesome-webfont.woff2?v=4.5.0 [32m200 [90m8.396 ms - 66624[0m
+2016-12-10T10:07:33.20+0530 [RTR/2]      OUT mekyush-marble-v2.au-syd.mybluemix.net - [10/12/2016:04:37:33.202 +0000] "GET /imgs/favicon.ico HTTP/1.1" 200 0 318 "https://mekyush-marble-v2.au-syd.mybluemix.net/p1/create" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36" 168.1.55.102:48455 x_forwarded_for:"202.71.0.100" x_forwarded_proto:"https" vcap_request_id:6147ac89-480e-4fcd-7182-7a2c25b67ae3 response_time:0.006315876 app_id:548b8a77-d38a-4028-9177-0790ef00bc52 x_global_transaction_id:"2652252109"
+2016-12-10T10:07:33.21+0530 [App/0]      OUT [90mGET /imgs/favicon.ico [32m200 [90m6.532 ms - 318[0m
+2016-12-10T10:07:34.48+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:07:42.73+0530 [App/0]      OUT ------------------------------------------ incoming request ------------------------------------------
+2016-12-10T10:07:42.73+0530 [App/0]      OUT New GET request for /p1
+2016-12-10T10:07:42.73+0530 [App/0]      OUT [90mGET /p1 [36m304 [90m3.667 ms - -[0m
+2016-12-10T10:07:42.74+0530 [RTR/3]      OUT mekyush-marble-v2.au-syd.mybluemix.net - [10/12/2016:04:37:42.733 +0000] "GET /p1 HTTP/1.1" 304 0 0 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36" 168.1.55.102:10308 x_forwarded_for:"202.71.0.100" x_forwarded_proto:"https" vcap_request_id:923b2bd9-8124-482b-7fb6-7526b712fa86 response_time:0.006618366 app_id:548b8a77-d38a-4028-9177-0790ef00bc52 x_global_transaction_id:"2163994791"
+2016-12-10T10:07:44.50+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:07:54.52+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:08:04.56+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:08:14.55+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:08:24.56+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:08:34.57+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:08:41.16+0530 [App/0]      OUT ------------------------------------------ incoming request ------------------------------------------
+2016-12-10T10:08:41.16+0530 [App/0]      OUT New GET request for /p1
+2016-12-10T10:08:41.16+0530 [RTR/0]      OUT mekyush-marble-v2.au-syd.mybluemix.net - [10/12/2016:04:38:41.152 +0000] "GET /p1 HTTP/1.1" 304 0 0 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36" 168.1.55.103:39969 x_forwarded_for:"202.71.0.100" x_forwarded_proto:"https" vcap_request_id:7de5db19-fb60-4fee-50a7-8650686ca997 response_time:0.00936053 app_id:548b8a77-d38a-4028-9177-0790ef00bc52 x_global_transaction_id:"2135242967"
+2016-12-10T10:08:41.16+0530 [App/0]      OUT [90mGET /p1 [36m304 [90m6.207 ms - -[0m
+2016-12-10T10:08:44.59+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:08:54.60+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:09:04.62+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:09:14.64+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:09:24.65+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:09:36.39+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:09:44.72+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:09:54.76+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:10:04.77+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:10:14.79+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:10:24.80+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:10:34.82+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:10:44.84+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:10:54.87+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:11:04.88+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:11:14.90+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:11:24.91+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:11:34.94+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:11:44.96+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:11:54.98+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:12:05.19+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:12:15.01+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:12:25.03+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:12:35.55+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:12:45.06+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:12:55.07+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:13:05.09+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:13:15.11+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:13:25.12+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:13:35.14+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:13:45.16+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:13:55.17+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:14:05.18+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:14:15.20+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:14:25.23+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:14:35.24+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:14:45.25+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:14:55.27+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:15:05.29+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:15:15.32+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:15:25.33+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:15:35.35+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:15:45.36+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:15:55.37+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:16:05.80+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:16:15.41+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:16:25.43+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:16:35.46+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:16:45.47+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:16:55.49+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:17:09.19+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:17:15.53+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:17:25.55+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:17:35.57+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:17:45.59+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:17:55.61+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:18:40.69+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:18:42.68+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:18:45.69+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:18:46.88+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:18:55.71+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:19:04.94+0530 [App/0]      ERR [ibc-js] Chain Stats - failure: 408 Request timed out
+2016-12-10T10:19:05.73+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:19:15.75+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:19:25.77+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:19:35.78+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:19:45.80+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:19:55.81+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:20:05.83+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:20:16.05+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:20:25.87+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:20:35.90+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:20:45.90+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:20:55.92+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:21:05.94+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:21:15.96+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:21:25.97+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:21:35.99+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:21:46.01+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:21:56.03+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:22:06.23+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:22:16.05+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:22:26.07+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:22:36.09+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:22:37.61+0530 [App/0]      OUT ------------------------------------------ incoming request ------------------------------------------
+2016-12-10T10:22:37.61+0530 [App/0]      OUT New GET request for /p1
+2016-12-10T10:22:37.61+0530 [RTR/0]      OUT mekyush-marble-v2.au-syd.mybluemix.net - [10/12/2016:04:52:37.613 +0000] "GET /p1 HTTP/1.1" 304 0 0 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36" 168.1.55.105:12443 x_forwarded_for:"202.71.0.100" x_forwarded_proto:"https" vcap_request_id:c8e2e170-b3fc-4607-5c9a-602e24e241b3 response_time:0.005209063 app_id:548b8a77-d38a-4028-9177-0790ef00bc52 x_global_transaction_id:"2685719677"
+2016-12-10T10:22:37.62+0530 [App/0]      OUT [90mGET /p1 [36m304 [90m2.946 ms - -[0m
+2016-12-10T10:22:46.12+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:22:56.14+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:23:06.16+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:23:16.18+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:23:26.21+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:23:36.23+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:23:46.25+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:23:56.36+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:24:06.29+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:24:16.31+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:24:24.10+0530 [API/3]      OUT Updated app with guid 548b8a77-d38a-4028-9177-0790ef00bc52 ({"name"=>"mekyush_marble_v2", "command"=>"PRIVATE DATA HIDDEN", "instances"=>1, "memory"=>512, "disk_quota"=>1024, "environment_json"=>"PRIVATE DATA HIDDEN"})
+2016-12-10T10:24:26.32+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:24:36.33+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:24:37.15+0530 [API/8]      OUT Updated app with guid 548b8a77-d38a-4028-9177-0790ef00bc52 ({"state"=>"STOPPED"})
+2016-12-10T10:24:38.25+0530 [DEA/133]    OUT Stopping app instance (index 0) with guid 548b8a77-d38a-4028-9177-0790ef00bc52
+2016-12-10T10:24:38.25+0530 [DEA/133]    OUT Stopped app instance (index 0) with guid 548b8a77-d38a-4028-9177-0790ef00bc52
+2016-12-10T10:24:40.38+0530 [DEA/188]    OUT Got staging request for app with id 548b8a77-d38a-4028-9177-0790ef00bc52
+2016-12-10T10:24:43.64+0530 [API/3]      OUT Updated app with guid 548b8a77-d38a-4028-9177-0790ef00bc52 ({"state"=>"STARTED"})
+2016-12-10T10:24:43.85+0530 [STG/188]    OUT -----> Downloaded app package (1.1M)
+2016-12-10T10:24:44.33+0530 [STG/188]    OUT -----> Downloaded app buildpack cache (1.8M)
+2016-12-10T10:24:45.43+0530 [STG/0]      OUT     
+2016-12-10T10:24:45.44+0530 [STG/0]      OUT -----> IBM SDK for Node.js Buildpack v3.9-20161128-1327
+2016-12-10T10:24:45.44+0530 [STG/0]      OUT        Based on Cloud Foundry Node.js Buildpack v1.5.20
+2016-12-10T10:24:45.45+0530 [STG/0]      OUT -----> Creating runtime environment
+2016-12-10T10:24:45.46+0530 [STG/0]      OUT        NPM_CONFIG_LOGLEVEL=error
+2016-12-10T10:24:45.46+0530 [STG/0]      OUT        NPM_CONFIG_PRODUCTION=true
+2016-12-10T10:24:45.47+0530 [STG/0]      OUT        NODE_ENV=production
+2016-12-10T10:24:45.47+0530 [STG/0]      OUT        NODE_MODULES_CACHE=true
+2016-12-10T10:24:45.50+0530 [STG/0]      OUT -----> Installing binaries
+2016-12-10T10:24:45.53+0530 [STG/0]      OUT        engines.node (package.json):  0.12.0
+2016-12-10T10:24:45.53+0530 [STG/0]      OUT        engines.npm (package.json):   unspecified (use default)
+2016-12-10T10:24:45.53+0530 [STG/0]      OUT        Downloading and installing node 0.12.0...
+2016-12-10T10:24:51.76+0530 [STG/0]      OUT        Using default npm version: 2.5.1
+2016-12-10T10:24:51.76+0530 [STG/0]      OUT -----> Restoring cache
+2016-12-10T10:24:52.13+0530 [STG/0]      OUT        Loading 2 from cacheDirectories (default):
+2016-12-10T10:24:52.13+0530 [STG/0]      OUT        - node_modules
+2016-12-10T10:24:52.14+0530 [STG/0]      OUT        - bower_components (not cached - skipping)
+2016-12-10T10:24:52.15+0530 [STG/0]      OUT -----> Building dependencies
+2016-12-10T10:24:52.15+0530 [STG/0]      OUT        Installing node modules (package.json)
+2016-12-10T10:24:53.41+0530 [STG/0]      OUT -----> Installing App Management
+2016-12-10T10:24:56.35+0530 [STG/0]      OUT -----> Caching build
+2016-12-10T10:24:56.37+0530 [STG/0]      OUT        Clearing previous node cache
+2016-12-10T10:24:56.38+0530 [STG/0]      OUT        Saving 2 cacheDirectories (default):
+2016-12-10T10:24:56.38+0530 [STG/0]      OUT        - node_modules
+2016-12-10T10:24:57.22+0530 [STG/0]      OUT        - bower_components (nothing to cache)
+2016-12-10T10:24:57.59+0530 [STG/0]      OUT -----> Build succeeded!
+2016-12-10T10:24:58.37+0530 [STG/0]      OUT        ├── async@0.9.0
+2016-12-10T10:24:58.37+0530 [STG/0]      OUT        ├── body-parser@1.0.2
+2016-12-10T10:24:58.37+0530 [STG/0]      OUT        ├── cf-deployment-tracker-client@0.1.2
+2016-12-10T10:24:58.37+0530 [STG/0]      OUT        ├── compression@1.4.4
+2016-12-10T10:24:58.37+0530 [STG/0]      OUT        ├── cookie-parser@1.0.1
+2016-12-10T10:24:58.37+0530 [STG/0]      OUT        ├── cors@2.5.3
+2016-12-10T10:24:58.37+0530 [STG/0]      OUT        ├── debug@0.7.4
+2016-12-10T10:24:58.37+0530 [STG/0]      OUT        ├── express@4.0.0
+2016-12-10T10:24:58.37+0530 [STG/0]      OUT        ├── express-session@1.2.1
+2016-12-10T10:24:58.37+0530 [STG/0]      OUT        ├── ibm-blockchain-js@1.3.2
+2016-12-10T10:24:58.37+0530 [STG/0]      OUT        ├── jade@1.3.1
+2016-12-10T10:24:58.37+0530 [STG/0]      OUT        ├── morgan@1.1.1
+2016-12-10T10:24:58.37+0530 [STG/0]      OUT        ├── serve-static@1.9.2
+2016-12-10T10:24:58.37+0530 [STG/0]      OUT        └── ws@1.0.1
+2016-12-10T10:24:58.39+0530 [STG/0]      ERR     
+2016-12-10T10:25:02.89+0530 [STG/188]    OUT -----> Uploading droplet (16M)
+2016-12-10T10:25:06.47+0530 [DEA/188]    OUT Starting app instance (index 0) with guid 548b8a77-d38a-4028-9177-0790ef00bc52
+2016-12-10T10:25:16.45+0530 [App/0]      ERR     Warning: connect.session() MemoryStore is not
+2016-12-10T10:25:16.45+0530 [App/0]      ERR designed for a production environment, as it will leak
+2016-12-10T10:25:16.45+0530 [App/0]      ERR memory, and will not scale past a single process.
+2016-12-10T10:25:16.45+0530 [App/0]      OUT     cache busting hash js e96c1061ac5b604e8b384ea4a526940d css 5c5213ec16de93e801c4aaf7a7eb956b
+2016-12-10T10:25:16.46+0530 [App/0]      OUT ------------------------------------------ Server Up - 0.0.0.0:64011 ------------------------------------------
+2016-12-10T10:25:16.46+0530 [App/0]      OUT Running using Developer settings
+2016-12-10T10:25:16.46+0530 [App/0]      OUT - Tracking Deployment
+2016-12-10T10:25:16.70+0530 [App/0]      OUT loading hardcoded peers : [{"discovery_host":"2b49389967a4432c8587111a4ac277e5-vp0.us.blockchain.ibm.com","discovery_port":30002,"api_host":"2b49389967a4432c8587111a4ac277e5-vp0.us.blockchain.ibm.com","api_port_tls":5002,"api_port":5002,"event_host":"2b49389967a4432c8587111a4ac277e5-vp0.us.blockchain.ibm.com","event_port":31002,"type":"peer","network_id":"2b49389967a4432c8587111a4ac277e5","container_id":"b8dbc09a0efa0647b5fc8d22434d3d4b0accb8c9db29477c14dd5b5122ebc611","id":"2b49389967a4432c8587111a4ac277e5-vp0","api_url":"http://2b49389967a4432c8587111a4ac277e5-vp0.us.blockchain.ibm.com:5002"},{"discovery_host":"2b49389967a4432c8587111a4ac277e5-vp1.us.blockchain.ibm.com","discovery_port":30002,"api_host":"2b49389967a4432c8587111a4ac277e5-vp1.us.blockchain.ibm.com","api_port_tls":5002,"api_port":5002,"event_host":"2b49389967a4432c8587111a4ac277e5-vp1.us.blockchain.ibm.com","event_port":31002,"type":"peer","network_id":"2b49389967a4432c8587111a4ac277e5","container_id":"693b922d47dfe06e96697940c9a6a71823021ac695b98e0e90158126c3a58566","id":"2b49389967a4432c8587111a4ac277e5-vp1","api_url":"http://2b49389967a4432c8587111a4ac277e5-vp1.us.blockchain.ibm.com:5002"},{"discovery_host":"2b49389967a4432c8587111a4ac277e5-vp2.us.blockchain.ibm.com","discovery_port":30002,"api_host":"2b49389967a4432c8587111a4ac277e5-vp2.us.blockchain.ibm.com","api_port_tls":5002,"api_port":5002,"event_host":"2b49389967a4432c8587111a4ac277e5-vp2.us.blockchain.ibm.com","event_port":31002,"type":"peer","network_id":"2b49389967a4432c8587111a4ac277e5","container_id":"a9f398d10eee1a09ed28286e28eba90225d081a3af776c18ba13753a8c1a3551","id":"2b49389967a4432c8587111a4ac277e5-vp2","api_url":"http://2b49389967a4432c8587111a4ac277e5-vp2.us.blockchain.ibm.com:5002"},{"discovery_host":"2b49389967a4432c8587111a4ac277e5-vp3.us.blockchain.ibm.com","discovery_port":30002,"api_host":"2b49389967a4432c8587111a4ac277e5-vp3.us.blockchain.ibm.com","api_port_tls":5002,"api_port":5002,"event_host":"2b49389967a4432c8587111a4ac277e5-vp3.us.blockchain.ibm.com","event_port":31002,"type":"peer","network_id":"2b49389967a4432c8587111a4ac277e5","container_id":"7cb7096bf3003f7e4391ebb2e90f10538405231a8421d86f39defd929defdc76","id":"2b49389967a4432c8587111a4ac277e5-vp3","api_url":"http://2b49389967a4432c8587111a4ac277e5-vp3.us.blockchain.ibm.com:5002"}]
+2016-12-10T10:25:16.70+0530 [App/0]      OUT loading hardcoded peers
+2016-12-10T10:25:16.70+0530 [App/0]      OUT loading hardcoded users
+2016-12-10T10:25:16.71+0530 [App/0]      OUT [!] looks like you are in bluemix, I am going to clear out the deploy_name so that it deploys new cc.
+2016-12-10T10:25:16.71+0530 [App/0]      OUT [!] hope that is ok budddy
+2016-12-10T10:25:16.71+0530 [App/0]      OUT [ibc-js] Peer:  2b49389967a4432c8587111a4ac277e5-vp0-2b49389967a4...:5002
+2016-12-10T10:25:16.71+0530 [App/0]      OUT [ibc-js] Registering  2b49389967a4432c8587111a4ac277e5-vp0-2b49389967a4...:5002  w/enrollId - user_type1_0
+2016-12-10T10:25:17.43+0530 [App/0]      OUT [ibc-js] Registration success x1 : user_type1_0
+2016-12-10T10:25:17.43+0530 [App/0]      OUT [ibc-js] removing temp dir
+2016-12-10T10:25:17.43+0530 [App/0]      OUT [ibc-js] Downloading zip
+2016-12-10T10:25:17.69+0530 [App/0]      OUT Uploaded stats { ok: true }
+2016-12-10T10:25:18.74+0530 [App/0]      OUT redirect... https://codeload.github.com/IBM-Blockchain/marbles/zip/v2.0
+2016-12-10T10:25:18.74+0530 [App/0]      OUT [ibc-js] Downloading zip
+2016-12-10T10:25:24.60+0530 [App/0]      OUT [ibc-js] Unzipping zip
+2016-12-10T10:25:24.91+0530 [App/0]      OUT [ibc-js] Unzip done
+2016-12-10T10:25:24.92+0530 [App/0]      OUT [ibc-js] Scanning files [ 'marbles_chaincode.go' ]
+2016-12-10T10:25:24.92+0530 [App/0]      OUT [ibc-js] Parsing file for shim version
+2016-12-10T10:25:24.92+0530 [App/0]      OUT [ibc-js] Found shim version: github.com/hyperledger/fabric/core/chaincode/shim
+2016-12-10T10:25:24.92+0530 [App/0]      OUT [ibc-js] Parsing file for invoke functions - marbles_chaincode.go
+2016-12-10T10:25:24.92+0530 [App/0]      OUT [ibc-js] Found cc invoke function:  init
+2016-12-10T10:25:24.92+0530 [App/0]      OUT [ibc-js] Found cc invoke function:  delete
+2016-12-10T10:25:24.92+0530 [App/0]      OUT [ibc-js] Found cc invoke function:  write
+2016-12-10T10:25:24.92+0530 [App/0]      OUT [ibc-js] Found cc invoke function:  init_marble
+2016-12-10T10:25:24.92+0530 [App/0]      OUT [ibc-js] Found cc invoke function:  set_user
+2016-12-10T10:25:24.92+0530 [App/0]      OUT [ibc-js] Found cc invoke function:  open_trade
+2016-12-10T10:25:24.92+0530 [App/0]      OUT [ibc-js] Found cc invoke function:  perform_trade
+2016-12-10T10:25:24.92+0530 [App/0]      OUT [ibc-js] Found cc invoke function:  remove_trade
+2016-12-10T10:25:24.92+0530 [App/0]      OUT [ibc-js] Parsing file for query functions - marbles_chaincode.go
+2016-12-10T10:25:24.92+0530 [App/0]      OUT [ibc-js] Found cc query function:  read
+2016-12-10T10:25:24.92+0530 [App/0]      OUT [ibc-js] load_chaincode() finished
+2016-12-10T10:25:24.92+0530 [App/0]      OUT [ibc-js] Deploy Chaincode - Starting
+2016-12-10T10:25:24.92+0530 [App/0]      OUT [ibc-js] 	function: init , arg: [ '99' ]
+2016-12-10T10:25:24.92+0530 [App/0]      OUT 	 Waiting...
+2016-12-10T10:25:34.14+0530 [App/0]      OUT 	 deploy success [waiting another 30 seconds]
+2016-12-10T10:25:34.14+0530 [App/0]      OUT 	 16e655c0fce6a9882896d3d6d11f7dcd4f45027fd4764004440ff1e61340910a9d67685c4bb723272a497f3cf428e6cf6b009618612220e1471e03b6c0aa76cb 
+2016-12-10T10:26:04.17+0530 [App/0]      OUT [ibc-js] Deploy Chaincode - Complete
+2016-12-10T10:26:04.17+0530 [App/0]      OUT [preflight check] 1 : testing if chaincode is ready
+2016-12-10T10:26:04.95+0530 [App/0]      OUT [ibc-js] read  - success: { jsonrpc: '2.0',
+2016-12-10T10:26:04.95+0530 [App/0]      OUT   result: { status: 'OK', message: 'null' },
+2016-12-10T10:26:04.95+0530 [App/0]      OUT   id: 1481345764172 }
+2016-12-10T10:26:04.95+0530 [App/0]      OUT [preflight check] 1 : success
+2016-12-10T10:26:04.95+0530 [App/0]      OUT ------------------------------------------ Websocket Up ------------------------------------------
+2016-12-10T10:26:06.15+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:26:06.15+0530 [App/0]      OUT [ibc-js] New block! 5
+2016-12-10T10:26:06.15+0530 [App/0]      OUT hey new block, lets refresh and broadcast to all 4
+2016-12-10T10:26:06.84+0530 [App/0]      OUT [ibc-js] Block Stats  4 - success
+2016-12-10T10:26:06.93+0530 [App/0]      OUT [ibc-js] read  - success: { jsonrpc: '2.0',
+2016-12-10T10:26:06.93+0530 [App/0]      OUT   result: { status: 'OK', message: '{"open_trades":null}' },
+2016-12-10T10:26:06.93+0530 [App/0]      OUT   id: 1481345766157 }
+2016-12-10T10:26:06.94+0530 [App/0]      OUT [ibc-js] read  - success: { jsonrpc: '2.0',
+2016-12-10T10:26:06.94+0530 [App/0]      OUT   result: { status: 'OK', message: 'null' },
+2016-12-10T10:26:06.94+0530 [App/0]      OUT   id: 1481345766156 }
+2016-12-10T10:26:16.18+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:26:26.20+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:26:36.22+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:26:46.24+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:26:56.27+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:27:06.29+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:27:16.32+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:27:26.46+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:27:36.35+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:27:46.37+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:27:56.38+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:28:06.40+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:28:16.41+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:28:26.43+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:28:36.44+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:28:46.46+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:28:56.47+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:29:06.49+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:29:16.67+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:29:26.51+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:29:36.54+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:29:46.55+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:29:56.56+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:30:06.58+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:30:16.59+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:30:26.60+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:30:38.25+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:30:46.63+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:30:56.77+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:31:06.66+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:31:16.68+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:31:26.69+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:31:36.71+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:31:46.72+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:31:56.75+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:32:06.75+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:32:16.76+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:33:01.85+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:33:03.87+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:33:06.87+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:33:07.86+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:33:16.90+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:33:26.10+0530 [App/0]      ERR [ibc-js] Chain Stats - failure: 408 Request timed out
+2016-12-10T10:33:26.94+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:33:36.99+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:33:47.00+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:33:57.01+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:34:07.03+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:34:17.05+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:34:29.57+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:34:37.12+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:34:47.14+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:34:57.15+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:35:07.16+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:35:17.19+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:35:27.21+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:35:37.22+0530 [App/0]      OUT [ibc-js] Chain Stats - success
+2016-12-10T10:35:47.24+0530 [App/0]      OUT [ibc-js] Chain Stats - success
